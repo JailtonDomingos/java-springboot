@@ -66,6 +66,7 @@ public class CursospringstsApplication implements CommandLineRunner{
 		estadoRepository.saveAll(Arrays.asList(est1, est2));
 		cidadeRepository.saveAll(Arrays.asList(c1, c2, c3));
 		
+
 		
 	}
 

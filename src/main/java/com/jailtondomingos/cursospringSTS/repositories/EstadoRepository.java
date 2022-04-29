@@ -11,3 +11,4 @@ import com.jailtondomingos.cursospringSTS.domain.Estado;
 public interface EstadoRepository extends JpaRepository<Estado, Integer>  {
 
 }
+
