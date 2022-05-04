@@ -13,3 +13,16 @@ Pontos de desenvolvimento:
     Envio de emails
     Armazenamento de imagens com Amazon S3
     Implantação do backend no Heroku
+    
+    Tecnologias e frameworks
+    
+    > Java
+    > Spring
+    > Hibernate
+    > JPA (Java Persistenci API)
+    > JWT (JSON Web Token)
+    > MySQL
+    > S3 Amazon
+    > CORS
+    
+![alt text](https://s3-sa-east-1.amazonaws.com/biazin-curso-spring-ionic/padrao-camadas-ddd.png)
